@@ -16,6 +16,7 @@
     "node": ">=8.3.0"
   },
   "main": "./lib/exceljs.browser.js",
+  "browser": "./lib/exceljs.browser.js",
   "types": "./index.d.ts",
   "files": [
     "dist",
